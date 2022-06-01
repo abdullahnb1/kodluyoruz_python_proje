@@ -1,5 +1,7 @@
 # kodluyoruz_python_proje
 Bu repository de kodluyoruz python temel eğitimi proje ödevine ulaşabilirsiniz.
+---------------------------
+## FLATTEN
 
 ### 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
 
@@ -12,3 +14,6 @@ output: [1,'a','cat',2,3,'dog',4,5]
 input: [[1, 2], [3, 4], [5, 6, 7]]
 
 output: [[[7, 6, 5], [4, 3], [2, 1]]
+-----------------------------
+
+
